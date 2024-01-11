@@ -1,4 +1,4 @@
-# Adaptive page for site
+# Adaptive layout page for website
 
 * Created with:
   - HTML
